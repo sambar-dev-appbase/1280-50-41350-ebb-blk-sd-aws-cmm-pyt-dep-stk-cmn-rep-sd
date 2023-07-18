@@ -1,0 +1,13 @@
+{
+  "resourceMetadataKEY": "yes",
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "1280-50-00005-mcr-eni-sd-aws",
+    "resourceTypeTAG": "eni",
+    "blockNumberTAG": "1280-50",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentTypeTAG": "sdk"
+  }
+}

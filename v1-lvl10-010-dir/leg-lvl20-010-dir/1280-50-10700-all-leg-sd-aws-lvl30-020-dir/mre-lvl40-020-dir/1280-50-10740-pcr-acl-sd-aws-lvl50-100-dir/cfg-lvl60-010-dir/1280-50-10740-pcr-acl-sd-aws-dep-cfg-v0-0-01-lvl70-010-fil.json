@@ -1,0 +1,29 @@
+{
+  "resourceMetadataKEY": "yes",
+  "inboundRule100KEY": {
+    "inboundRule100NumberKEY": "100",
+    "inboundRule100TrafficTypeKEY": "All traffic",
+    "inboundRule100ProtocolTypeKEY": "All",
+    "inboundRule100PortRangeKEY": "All",
+    "inboundRule100SourceIPKEY": "0.0.0.0/0",
+    "inboundRule100AllowTrafficKEY": "Allow"
+  },
+  "outboundRule100KEY": {
+    "outboundRule100NameKEY": "100",
+    "outboundRule100TrafficTypeKEY": "All traffic",
+    "outboundRule100ProtocolTypeKEY": "All",
+    "outboundRule100PortRangeKEY": "All",
+    "outboundRule100DestinationIPKEY": "0.0.0.0/0",
+    "outboundRule100AllowTrafficKEY": "Allow"
+  },
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "1280-50-10740-pcr-acl-sd-aws",
+    "resourceTypeTAG": "acl",
+    "blockNumberTAG": "1280-50",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentTypeTAG": "sdk"
+  }
+}

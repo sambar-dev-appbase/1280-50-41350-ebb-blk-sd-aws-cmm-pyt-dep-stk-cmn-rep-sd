@@ -1,0 +1,27 @@
+{
+  "resourceMetadataKEY": "yes",
+  "inboundRuleKEY": {
+    "inboundRuleTrafficTypeKEY": "All traffic",
+    "inboundRuleprotocolTypeKEY": "All",
+    "inboundRulePortRangeKEY": "All",
+    "inboundRuleSourceTypeKEY": "Custom",
+    "inboundRuleDescriptionKEY": "Connectivity from the windows-ws-block-one-sd EC2 instance."
+  },
+  "outboundRuleKEY": {
+    "outboundRuleTrafficTypeKEY": "All traffic",
+    "outboundRuleProtocolTypeKEY": "All",
+    "outboundRulePortRangeKEY": "All",
+    "outboundRuleDestinationTypeKEY": "Custom",
+    "outboundRuleDescriptionKEY": "Connectivity to the windows-ws-block-one-sd EC2 instance."
+  },
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "1280-50-10745-vcr-seg-sd-aws",
+    "resourceTypeTAG": "seg",
+    "blockNumberTAG": "1280-50",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentTypeTAG": "sdk"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resourceMetadataKEY": "yes",
+  "inboundRuleKEY": {
+    "inboundRuleSourceIPKEY": "EC2 instance windows-ws-block-one-sd Private IP."
+  },
+  "outboundRuleKEY": {
+    "outboundRuleDestinationIPKEY": "EC2 instance windows-ws-block-one-sd Private IP."
+  },
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}

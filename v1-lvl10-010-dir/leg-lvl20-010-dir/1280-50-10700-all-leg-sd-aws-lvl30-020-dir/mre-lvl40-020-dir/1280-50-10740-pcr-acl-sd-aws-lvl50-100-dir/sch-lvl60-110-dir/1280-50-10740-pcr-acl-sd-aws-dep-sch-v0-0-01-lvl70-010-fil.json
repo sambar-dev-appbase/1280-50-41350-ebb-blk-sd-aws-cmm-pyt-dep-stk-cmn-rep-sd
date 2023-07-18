@@ -1,0 +1,18 @@
+{
+  "resourceMetadataKEY": "yes",
+  "inboundRule100KEY": {
+    "inboundRule100SourceIPKEY": "Current IP address."
+  },
+  "outboundRule100KEY": {
+    "outboundRule100DestinationIPKEY": "Current IP address."
+  },
+  "subnetAssotiationKEY":{
+    "subnetANameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd",
+    "subnetBNameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd",
+    "subnetCNameKEY": "ec2-jump-block-one-2a-1280-50-sub-sd"
+  },
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}
