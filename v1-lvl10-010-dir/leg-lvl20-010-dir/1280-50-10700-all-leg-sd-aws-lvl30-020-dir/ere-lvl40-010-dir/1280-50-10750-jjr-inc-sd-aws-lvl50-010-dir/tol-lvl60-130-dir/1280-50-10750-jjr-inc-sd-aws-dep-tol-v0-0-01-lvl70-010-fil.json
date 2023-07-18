@@ -1,7 +1,1 @@
-{
-  "resourceMetadataKEY": "yes",
-  "tool1NameKEY": "aws-cli",
-  "tool1VersionNumberKEY": "2.4.7",
-  "tool2NameKEY": "kubectl",
-  "tool2VersionNumberKEY": "1.26"
-}
+Sample file.
